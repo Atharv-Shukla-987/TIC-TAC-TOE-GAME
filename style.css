@@ -8,13 +8,13 @@
     padding:0;
 }
 nav{
-    background-color:rgb(255, 166, 0);
+    background-color:rgb(226, 13, 48);
     color:white;
     height: 70px;
     font: size 27px;
     display: flex;
     align-items: center;
-    padding: 0px 20px;
+    padding: 0px 12px;
     font-family: "Audiowide", sans-serif;
 } 
 
@@ -25,7 +25,7 @@ nav ul{
 }
 
 .Gamecantainor{
-    background-color: yellow;
+    background-color: rgb(245, 245, 245);
     Display: flex;
     justify-content: center ;
     margin-top: 80px;
@@ -37,10 +37,11 @@ nav ul{
     grid-template-columns: repeat(3, 10vw);
     grid-template-rows: repeat(3, 10vw);
     font-family: "Audiowide", sans-serif;
+    position :relative;
 }
 
 .containor div{
-    border: 2px solid black;
+    border: 2px solid rgb(0, 0, 0);
     font-size:8vw;
     cursor: pointer;
     display: flex;
@@ -49,7 +50,7 @@ nav ul{
 }
 
 .containor div:hover{
-    background-color:  rgb(218, 207, 207);
+    background-color:  rgb(238, 195, 195);
   
     
 } 
@@ -64,4 +65,20 @@ nav ul{
     justify-content: center;
     align-items: center;
 
+}
+
+.containor .br-0{
+    border-right: 0;
+}
+
+.containor .bl-0{
+    border-left: 0;
+}
+
+.containor .bt-0{
+    border-top: 0;
+}
+
+.containor .bb-0{
+    border-bottom: 0;
 }
