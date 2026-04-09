@@ -58,3 +58,18 @@ nav ul{
     padding: 0 34px;
     font-family: "Audiowide", sans-serif;
 }   
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.divtt{
+    font-size: 8vw;
+    f\ont-family: "Audiowide", sans-serif;
+    d]isplay: flex;
+    justify-content: center;
+
+}
