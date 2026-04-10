@@ -54,7 +54,9 @@ nav ul{
   
     
 } 
-
+.info{
+    font-size: 20px;
+}
 .gameinfo{
     padding: 0 34px;
     font-family: "Audiowide", sans-serif;
@@ -81,4 +83,20 @@ nav ul{
 
 .containor .bb-0{
     border-bottom: 0;
+}
+
+#reset{
+    background-color: rgb(226, 13, 48);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Audiowide", sans-serif;
+}
+
+
+.imgbox img{
+    width: 0;
+    transition: width is ease-in-out;
 }
