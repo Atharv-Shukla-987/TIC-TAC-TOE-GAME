@@ -100,3 +100,11 @@ nav ul{
     width: 0;
     transition: width is ease-in-out;
 }
+
+@media screen and (max-width: 800px) {
+
+    .Gamecantainor{
+        flex-wrap: wrap    ;
+    
+}}
+    
