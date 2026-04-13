@@ -32,7 +32,7 @@ clean UI
 
 
 ## EXTRA FEATURES
-1. IT Features a background sound from the anime Your name called Sparkl
+1. IT Features a background sound from the anime Your name called Sparkle
 2. It also features a wining song called tunuk tunuk tunana by diller mehandi
 
 
