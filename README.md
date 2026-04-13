@@ -34,14 +34,14 @@ A classic, interactive Tic-Tac-Toe game built with simplicity and user experienc
     If all 9 squares are full and no player has 3 marks in a row, the game is a draw.
 
 ## 📂 Project Structure
-Plaintext
 
+```
 TIC-TAC-TOE-GAME/
-├── src/                # Source code files
-├── assets/             # Images/Sounds (if applicable)
-├── README.md           # Project documentation
-└── main.py             # Entry point of the game
-
+├── src/                
+├── assets/             
+├── README.md           
+└── main.py             
+```
 ## 📝 Future Roadmap
 
     [ ] Add an AI opponent using the Minimax algorithm.
