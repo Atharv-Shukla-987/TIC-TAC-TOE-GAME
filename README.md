@@ -1,7 +1,7 @@
 # Tic-Tac-Toe 
 The classic TIC-TAC-TOE now on your browser
 
-want to play game but trying to find copy and pen 
+want to play TIC TAC TOE game but trying to find copy and pen 
 
 now You don't need it 
 
@@ -22,8 +22,7 @@ trun detection is present there  and  Prevents players from choosing occupied sq
 It is build using Javascript and CSS and HTML
 just basic stuff not some allien Tech
 
-## 🎮 How to Play
-
+## HOW TO USE
 Go to https://tic-tac-toe-game-murex-seven.vercel.app/
 and u can start playing ith ur friend
 The first player to make three x or O in a line wins
