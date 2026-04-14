@@ -1,8 +1,12 @@
 # Tic-Tac-Toe 
 The classic TIC-TAC-TOE now on your browser
+
 want to play game but trying to find copy and pen 
+
 now You don't need it 
+
 Just use it on browser
+
 Interactive  game built with simple user experience in mind
 This  demonstrates basic turn-based mechanics 
 
